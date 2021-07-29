@@ -1,2 +1,2 @@
-# selfbot
-Selfbot | BLCheats
+# SELFBOT
+by BLCheats
