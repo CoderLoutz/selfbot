@@ -1,4 +1,4 @@
 ## SELFBOT
 by BLCheats
 
-<h1>teste</h1>
+<h1>Este README.md NÃO É PARA DIVULGAR A SOURCE CODE</h1>
